@@ -3,7 +3,7 @@
   <groupId>de.fruitfly.ovr</groupId>
   <artifactId>JRift</artifactId>
   <versioning>
-    <release>0.3.2.1</release>
+    <release>0.4.1.1</release>
     <versions>
       <version>0.2.3.0</version>
       <version>0.2.3.1</version>
@@ -19,7 +19,8 @@
       <version>0.2.5.4</version>
       <version>0.3.1.1</version>
       <version>0.3.2.1</version>
+      <version>0.4.1.1</version>
     </versions>
-    <lastUpdated>20140619170108</lastUpdated>
+    <lastUpdated>20140813143629</lastUpdated>
   </versioning>
 </metadata>
